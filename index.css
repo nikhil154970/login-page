@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(127, 163, 194);
+}
+.inner-side{
+    width: 30%;
+    height: 500px;
+    background-color: thistle;
+    position: absolute;
+    left: 500px;
+    top: 50px;
+   border-radius: 45px;
+}
+.inner-text{
+    font-weight: ;
+    font-size: 70px;
+    align-items: center;
+    position: relative;
+    top: -7%;
+    text-shadow: 2px 2px 5px red;
+}
+.form-text{
+    text-align: center;
+    font-size: larger;
+    line-height: 30px;
+    position: relative;
+    top:-28px;
+}
+.a{
+    text-align: center;
+    width: 200px;
+    position: absolute;
+    left: 100px;
+}
+.a:hover{
+    font-family: monospace;
+}
+.sumbit{
+    font-size: x-large;
+    line-height: 60px;
+}
+.sumbit:hover{
+    font-size: 150%;
+}
+
